@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  Hi there 👋
+</p>
 
 <!--
 **Chatur27/Chatur27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,13 +15,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Chatur's github stats](https://github-readme-stats.vercel.app/api?username=Chatur27&show_icons=true&theme=cobalt&count_private=true)](https://github.com/Chatur27) 
 -->
 
-[![Chatur's github stats](https://github-readme-stats.vercel.app/api?username=Chatur27&theme=cobalt&count_private=true)](https://github.com/Chatur27) 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chatur27&show_icons=true&theme=cobalt&count_private=true"/>
+</p>
 
-### ⚡ Facts:
+
+# ⚡ About Me
 I'm interested in android development. I have already mastered Exynos7885 kernels.
 I'm a ROM developer too for A10, A20 and A30
+
 
 # 🔭 My work
 
