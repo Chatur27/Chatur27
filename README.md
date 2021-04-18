@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm interested in android development. I have already mastered Exynos7885 kernels.
 I'm a ROM developer too for A10, A20 and A30
 
-# My work
+# 🔭 My work
 
 ### Eureka Kernels Currently Active:
 
@@ -40,7 +40,7 @@ I'm a ROM developer too for A10, A20 and A30
 - [a40](https://github.com/Chatur27/Eureka-kernel-for-SM-A405-Q-EOL)
  
 
-### 📫 How to reach me:
+# 📫 How to reach me:
 
 [Telegram](https://t.me/chatur2709)
 
