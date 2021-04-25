@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="center" >   
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatur27&&show_icons=true&theme=radical"/>
+</p>
+
 # ⚡ About Me
 I'm interested in android development. I have already mastered Exynos7885 kernels.
 I'm a ROM developer too for A10, A20 and A30
@@ -39,17 +43,19 @@ I'm a ROM developer too for A10, A20 and A30
 
 - [a20e](https://github.com/Chatur27/Eureka-kernel-for-SM-A105-Q)
 
-- [a30](https://github.com/Chatur27/Eureka-kernel-for-SM-A305-Q)
+- [a30](https://github.com/Chatur27/Eureka-kernel-for-SM-A105-Q)
 
-- [a30s](https://github.com/Chatur27/Eureka-kernel-for-SM-A307-Q)
+- [a30s](https://github.com/Chatur27/Eureka-kernel-for-SM-A105-Q)
 
-### Eureka Kernels EOL:
+- [a40](https://github.com/Chatur27/Eureka-kernel-for-SM-A105-Q)
 
-- [a40](https://github.com/Chatur27/Eureka-kernel-for-SM-A405-Q-EOL)
- 
 
 # 📫 How to reach me:
 
 [Telegram](https://t.me/chatur2709)
 
 [XDA](https://forum.xda-developers.com/m/chatur27.10997227/)
+
+
+# 🤔 Number of visitors since 25 April 2021:
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chatur27.chatur27)
