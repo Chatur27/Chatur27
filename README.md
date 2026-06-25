@@ -70,9 +70,11 @@ A cinematic 3D product-launch experience for a fictional spatial-computing visor
 - Responsive viewport-fit interface
 - WebGL recovery and accessibility safeguards
 
-**Technology:** Next.js, React, TypeScript, Three.js, React Three Fiber
+**Technology:** Next.js, React, TypeScript, Three.js, React Three Fiber, Vercel
 
-**Status:** Final refinement and deployment in progress.
+[Live demonstration](https://luxon-aura-xr.vercel.app/) • [Source repository](https://github.com/Chatur27/luxon-aura-xr)
+
+> Aura XR is a fictional portfolio product experience created to demonstrate interactive 3D design, responsive product configuration, and front-end development.
 
 ---
 
